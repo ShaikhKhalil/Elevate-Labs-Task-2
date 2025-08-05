@@ -10,12 +10,14 @@ This task demonstrates data manipulation using SQL `INSERT`, `UPDATE`, `DELETE`,
 - Selected members with `NULL` values in `phone`
 
 ## 📂 Files
-- `task2.sql` – Full script for Task 2
 - `README.md` – Documentation
+- `Task2_ActionOutput.png` - Project description and execution instructions  
+- `khalil_library_task2.sql` – Full script for Task 2
+
 
 ## 🛠 How to Run
 1. Open MySQL Workbench or DB Fiddle
-2. Run `task2.sql` after creating `khalil_library` schema (if not already present)
+2. Run `khalil_library_task2.sql` after creating `khalil_library` schema (if not already present)
 3. Verify table data and operations
 
 ## 👨‍💻 Author
