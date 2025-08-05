@@ -36,8 +36,6 @@
 	UPDATE Book SET title = '1984 (Updated Edition)' WHERE book_id = 2;
 
 	DELETE FROM Member WHERE member_id = 3;
-
-	INSERT INTO Member (name, email) VALUES ('Karan Mehta', 'karan@example.com');
     
 
     
