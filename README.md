@@ -22,7 +22,7 @@ This task demonstrates data manipulation using SQL `INSERT`, `UPDATE`, `DELETE`,
 
 ## 👨‍💻 Author
 
-**Khalil Shaikh**  
+**Khalil Abdul Jabbar Shaikh**  
 SQL Developer Intern  
 5th August 2025
 
