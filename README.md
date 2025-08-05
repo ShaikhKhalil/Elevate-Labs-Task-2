@@ -17,7 +17,7 @@ This task demonstrates data manipulation using SQL `INSERT`, `UPDATE`, `DELETE`,
 
 ## 🛠 How to Run
 1. Open MySQL Workbench or DB Fiddle
-2. Run `khalil_library_task2.sql` after creating `khalil_library` schema (if not already present)
+2. Run `khalil_library_task2.sql` after creating `khalil_library.sql` schema from Elevate-Labs-Task-1
 3. Verify table data and operations
 
 ## 👨‍💻 Author
